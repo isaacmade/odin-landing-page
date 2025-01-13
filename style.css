@@ -1,0 +1,44 @@
+body {
+    font-family: Roboto, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    display: flex;
+    background-color: #1f2937;
+    justify-content: space-between;
+}
+
+.hero-main {
+    color: #f9faf8;
+}
+
+.header-links {
+    color: #e5e7eb;
+}
+
+.container1 {
+    background-color: #1f2937;
+}
+
+h2 {
+    margin: 0;
+}
+
+.hero-info {
+    color: #e5e7eb;
+}
+
+.container1 .button {
+    padding: 4px 18px;
+    border: 1px outset buttonborder;
+    border-radius: 6px;
+    color: #e5e7eb;
+    background-color: #3882f6;
+    text-decoration: none;
+}
+
+.hero-img {
+    
+}
